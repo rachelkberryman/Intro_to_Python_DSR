@@ -1,2 +1,0 @@
-Report for poem luck 
- {'Is': 2, 'Luck': 1, 'is': 1, 'not': 1, 'chance—': 1, "It's": 1, 'Toil—': 1, "Fortune's": 1, 'expensive': 1, 'smile': 1, 'earned—': 1, 'The': 1, 'Father': 1, 'of': 1, 'the': 1, 'Mine': 1, 'that': 1, 'old-fashioned': 1, 'Coin': 1, 'We': 1, 'spurned—': 1}

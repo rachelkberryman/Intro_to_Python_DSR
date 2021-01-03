@@ -1,2 +1,0 @@
-Report for poem soul 
- {'–': 9, 'The': 2, 'Soul': 2, 'itself': 2, 'its': 2, 'unto': 1, 'Is': 1, 'an': 1, 'imperial': 1, 'friend': 1, 'Or': 1, 'the': 1, 'most': 1, 'agonizing': 1, 'Spy': 1, 'An': 1, 'Enemy': 1, 'could': 1, 'send': 1, 'Secure': 1, 'against': 1, 'own': 1, 'No': 1, 'treason': 1, 'it': 1, 'can': 1, 'fear': 1, 'Itself': 1, 'Sovereign': 1, 'of': 1, 'should': 1, 'stand': 1, 'in': 1, 'Awe': 1}

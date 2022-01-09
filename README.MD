@@ -12,6 +12,13 @@
 3. Functions:
   - Writing Functions 
   - Parameters and Arguments 
-4. Scripting:
+4. Accessing Data via APIs
+  - About JSONs 
+  - API intro
+  - Saving and working with data from an API
+5. Scripting:
   - Moving from Interactive Mode to Script Mode
   - Working with Arg Parse
+
+CREDITS:
+A significant portion of this course came from Adam Green, https://github.com/ADGEfficiency . 
